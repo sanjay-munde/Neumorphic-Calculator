@@ -35,6 +35,4 @@ git clone https://github.com/sanjay-munde/Neumorphic-Calculator.git
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/sanjay-munde/Neumorphic-Calculator/edit/main/LICENSE) file for details.
 
-```
-
 Feel free to customize it further according to your preferences or additional features of your project.
